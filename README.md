@@ -1,49 +1,46 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- Replace with your name and introduction -->
+# [Daniel]
 
-###
+## Software Engineer | Full-Stack Web Developer
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Welcome to my GitHub profile! I'm a passionate software engineer with expertise in web development and a focus on the MERN (MongoDB, Express.js, React, Node.js) stack. I love creating responsive and user-friendly web applications.
 
-###
+![Cover Image](link-to-your-cover-image.jpg)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### Skills
 
-###
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB
+- **Version Control:** Git, GitHub
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### Projects
 
-###
+Here are some of my noteworthy projects:
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+1. [Project Name 1](link-to-project-1): A brief description of the project and its technologies.
+   ![Project 1 Screenshot](link-to-project-1-screenshot.jpg)
 
-###
+2. [Project Name 2](link-to-project-2): Another exciting project with a short description.
+   ![Project 2 Screenshot](link-to-project-2-screenshot.jpg)
 
-<br clear="both">
+### Open Source Contributions
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+I actively contribute to open source projects, including [Project Name](link-to-project).
 
-###
+### Blog
+
+I occasionally write about web development and programming on my [personal blog](link-to-your-blog).
+
+### Let's Connect
+
+Feel free to connect with me on:
+
+- [LinkedIn](link-to-your-linkedin-profile)
+- [Twitter](link-to-your-twitter-profile)
+
+### Contact
+
+You can reach out to me at [your.email@example.com](mailto:your.email@example.com).
+
+<!-- Add more sections as needed, such as education, certifications, or awards. -->
