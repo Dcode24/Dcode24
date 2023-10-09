@@ -1,7 +1,7 @@
 # Hi there, I am Daniel. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Full-Stack Engineer from London, England 
+- 🏦 I'm a Full-Stack Software Engineer from London, England 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**, **.node**, **.express**,  **.react**, **.mongodb**
 - 🎓 Computer Science Graduate from Oxford Brookes University, Class of 2020
