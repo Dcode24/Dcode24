@@ -5,7 +5,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**, **.node**, **.express**,  **.react**, **.mongodb**
 - 🎓 Computer Science Graduate from Oxford Brookes University, Class of 2020
-- 📖 I am currently reading **Eloquent Javascript** by Marijn Haverbeke
+- 📖 I am currently reading **Can't Hurt Me** by David Goggins
 - 💬 Talk to me about basketball, react, AI & Machine Learning
 - 👯 We can connect to play a game of Chess ♟
 - ⚡ Fun fact: I earn a basketball scholarship to USA at the age of 18
