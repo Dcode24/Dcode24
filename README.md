@@ -1,12 +1,12 @@
 # Hi there, I am Daniel. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Full-Stack Software Engineer from London, England 
+- 🏦 Former Software Engineer who recently transitioned into Cybersecurity, passionate about exploring the ever-evolving cyber landscape. Currently expanding my expertise and working on personal cybersecurity projects. Based in London, England.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**, **.node**, **.express**,  **.react**, **.mongodb**
 - 🎓 Computer Science Graduate from Oxford Brookes University, Class of 2020
 - 📖 I am currently reading **Can't Hurt Me** by David Goggins
-- 💬 Talk to me about basketball, react, AI & Machine Learning
+- 💬 Talk to me about Cybersecurity, AI & Machine Learning, Basketball
 - 👯 We can connect to play a game of Chess ♟
 - ⚡ Fun fact: I earn a basketball scholarship to USA at the age of 18
 - 🧑‍💻 Tech I work with :
